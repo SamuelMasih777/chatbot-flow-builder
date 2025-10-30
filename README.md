@@ -6,6 +6,7 @@ This project allows users to visually create chatbot message flows by dragging a
 ---
 
 ## 🚀 Preview 
+![Live Link](https://chatbot-flow-builder-theta-livid.vercel.app/)
 
 ### 🌙 Dark Theme
 ![Dark Theme Screenshot](public/builder-dark.png)
